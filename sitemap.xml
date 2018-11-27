@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gaga.cool/about/index.html</loc>
+    
+    <lastmod>2018-11-27T12:12:30.566Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gaga.cool/2018/11/27/%E5%91%8A%E7%A4%BA/</loc>
     
     <lastmod>2018-11-27T10:18:10.280Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>https://gaga.cool/2018/10/29/test/</loc>
     
     <lastmod>2018-11-27T08:01:35.988Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gaga.cool/about/index.html</loc>
-    
-    <lastmod>2018-11-20T08:13:05.879Z</lastmod>
     
   </url>
   
